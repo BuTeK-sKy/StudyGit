@@ -36,6 +36,10 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "a7a4bd50-8461-4d74-86cb-9040aff9ecc8",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     }
   ],
   "IconResourcesKeys": [],
@@ -63,7 +67,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 9
     },
     {
       "Type": "DomainApi",
